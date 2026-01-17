@@ -1,0 +1,45 @@
+# =========================
+# Data files (do NOT commit)
+# =========================
+data/
+*.csv
+*.xlsx
+*.parquet
+
+# =========================
+# Jupyter Notebook files
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Python cache & compiled
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# =========================
+# Virtual environments
+# =========================
+venv/
+.env/
+.venv/
+
+# =========================
+# IDE / Editor files
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# OS-specific files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Logs & temp files
+# =========================
+*.log
+*.tmp
